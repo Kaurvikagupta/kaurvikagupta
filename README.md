@@ -1,17 +1,24 @@
 <h1 align="center">Hi 👋, I'm Kaurvika Gupta</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">Full Stack Developer Focused on Scalable Solutions</h3>
 
-- 🔭 I’m currently working on **Javascript**
+- 🔭 I’m currently working on **AgricultureProject**
 
-- 🌱 I’m currently learning **Tailwind Css**
+- 🌱 I’m currently learning **Data Structures & Algorithms**
 
-- 👯 I’m looking to collaborate on **Frontend Related Projects**
+- 🔥 Passionate about learning **AI&ML** incremently
 
-- 📫 How to reach me **guptakuhu2315@gmail.com**
+-  💡 Interested in **Full Stack Development & Backend Systems**
 
-- ⚡ Fun fact **Web Dev Enthusiast**
+-  📚 Also preparing for Competitive Programming , Internships & Placements
 
-<h3 align="left">Connect with me:</h3>
+- 👯 I’m Actively Seeking Software Development Internship Opportunities
+
+- 📫 How to reach me **kuhugupta469@gmail.com**
+
+
+
+<h3 align="left">🤝Connect with me:</h3>
+🔗 🔗 [LinkedIn](https://www.linkedin.com/in/kaurvika-gupta-7a797724a/)
 <p align="left">
 <a href="https://twitter.com/kuhugupta" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="kuhugupta" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/kaurvika gupta" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kaurvika gupta" height="30" width="40" /></a>
